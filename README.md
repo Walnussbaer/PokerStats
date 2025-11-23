@@ -2,6 +2,13 @@
 
 An app to track your poker games history.
 
+## Tech stack
+
+This app is using the following technologies:
+
+- Flutter
+- SQLite
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
